@@ -1,0 +1,41 @@
+byr:1937 iyr:2015 eyr:2025 hgt:150cm hcl:#000000 ecl:oth pid:123456789
+
+byr:1919 iyr:2015 eyr:2025 hgt:150cm hcl:#000000 ecl:oth pid:123456789
+
+byr:2003 iyr:2015 eyr:2025 hgt:150cm hcl:#000000 ecl:oth pid:123456789
+
+byr:20OO iyr:2015 eyr:2025 hgt:150cm hcl:#000000 ecl:oth pid:123456789
+
+byr:1937 iyr:2009 eyr:2025 hgt:150cm hcl:#000000 ecl:oth pid:123456789
+
+byr:1937 iyr:2021 eyr:2025 hgt:150cm hcl:#000000 ecl:oth pid:123456789
+
+byr:1937 iyr:2015 eyr:2019 hgt:150cm hcl:#000000 ecl:oth pid:123456789
+
+byr:1937 iyr:2015 eyr:2031 hgt:150cm hcl:#000000 ecl:oth pid:123456789
+
+byr:1937 iyr:2015 eyr:2025 hgt:150 hcl:#000000 ecl:oth pid:123456789
+
+byr:1937 iyr:2015 eyr:2025 hgt:149cm hcl:#000000 ecl:oth pid:123456789
+
+byr:1937 iyr:2015 eyr:2025 hgt:194cm hcl:#000000 ecl:oth pid:123456789
+
+byr:1937 iyr:2015 eyr:2025 hgt:59inmama hcl:#000000 ecl:oth pid:123456789
+
+byr:1937 iyr:2015 eyr:2025 hgt:58in hcl:#000000 ecl:oth pid:123456789
+
+byr:1937 iyr:2015 eyr:2025 hgt:77in hcl:#000000 ecl:oth pid:123456789
+
+byr:1937 iyr:2015 eyr:2025 hgt:68in hcl:#000000ZZ ecl:oth pid:123456789
+
+byr:1937 iyr:2015 eyr:2025 hgt:68in hcl:000000# ecl:oth pid:123456789
+
+byr:1937 iyr:2015 eyr:2025 hgt:68in hcl:#0z0000 ecl:oth pid:123456789
+
+byr:1937 iyr:2015 eyr:2025 hgt:68in hcl:#af9999 ecl:naw pid:123456789
+
+byr:1937 iyr:2015 eyr:2025 hgt:68in hcl:#af9999 ecl:oth pid:
+
+byr:1937 iyr:2015 eyr:2025 hgt:68in hcl:#af9999 ecl:oth pid:12345678
+
+byr:1937 iyr:2015 eyr:2025 hgt:68in hcl:#af9999 ecl:oth pid:1234567891

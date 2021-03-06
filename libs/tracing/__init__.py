@@ -329,8 +329,8 @@ class Tracer:
         if isinstance(base, str):
             try:
                 return base.format(*args, **kwargs)
-            except IndexError:
-                raise TraceError(f"failed to format ({repr(base)}, {args}, {kwargs})")
+            except IndexError as err:
+                raise TraceError(f"failed to format ({repr(base)}, {args}, {kwargs})") from err
 
         if args or kwargs:
             raise TraceError(f"unused parameters for ({repr(base)}, {args}, {kwargs})")

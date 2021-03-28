@@ -38,17 +38,25 @@ class ChainedListNode:
     def is_last(self):
         return self.right is None
 
-    def is_operator(self):
-        return not isinstance(self.value, int)
-
-    def is_integer(self):
-        return not isinstance(self.value, int)
-
     def get_last(self):
         if self.right is None:
             return self
 
         return self.right.get_last()
+
+    def insert_after(self, value):
+        right = self.right
+        node = ChainedListNode(self.chain, value, left=self, right=right)
+        self.right = node
+
+        if right is None:
+            # assert self.chain.last == self
+            self.chain.last = node
+        else:
+            # assert right.left == self
+            right.left = node
+
+        return node
 
     def pop(self):
         left = self.left
